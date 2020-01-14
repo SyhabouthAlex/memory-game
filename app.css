@@ -71,8 +71,8 @@ button {
   }
   
   .back > img {
-    height: 160px;
-    width: auto;
+    max-width:100%;
+    max-height:100%;
   }
   
   #current-score {
